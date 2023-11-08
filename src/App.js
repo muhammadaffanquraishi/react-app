@@ -1,5 +1,7 @@
+/* eslint-disable no-unused-vars */
 import logo from './logo.svg';
 import './App.css';
+import Canvas from './components/canvas';
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          noob programmer
         </p>
         <a
           className="App-link"
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          very bad at programming
         </a>
       </header>
     </div>
